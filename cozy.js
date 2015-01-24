@@ -16,7 +16,7 @@ var cozyHandler = {
 
     var app = express();
     app.use(express.static(pathExtra.join(__dirname, '/public') ) );
-    app.get('/some', function(req, res){
+    app.get('/some', function( /*req, res*/ ){
       // put app logic
     });
 
