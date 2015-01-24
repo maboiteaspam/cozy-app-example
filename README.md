@@ -1,3 +1,3 @@
 # Cozy-light app example
 
-Provides a app reference implementation to kick-start your dev.
+Provides an app example implementation to kick-start your dev.

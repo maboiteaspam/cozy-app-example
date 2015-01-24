@@ -1,7 +1,7 @@
 {
   "name": "cozy-app",
   "version": "1.0.0",
-  "description": "Provides a app reference implementation to kick-start your dev.",
+  "description": "Provides an app example implementation to kick-start your dev.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
