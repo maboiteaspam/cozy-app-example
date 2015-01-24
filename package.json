@@ -1,0 +1,17 @@
+{
+  "name": "cozy-app",
+  "version": "1.0.0",
+  "description": "Provides a app reference implementation to kick-start your dev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint":"eslint ./*.js"
+  },
+  "author": "maboiteaspam",
+  "license": "WTFPL",
+  "dependencies": {
+    "cozy-stub": "^1.0.0",
+    "express": "^4.11.1",
+    "path-extra": "^0.3.0"
+  }
+}
